@@ -6,7 +6,7 @@
 <p>🔮 Atualmente, estou me aventurando no universo do <b>Front-end</b> com a <i>biblioteca</i> <b>React</b>.</p>
 <p>📜 Já tenho um diploma como Técnica em Informática.</p>
 <p>🏅 Adoro participar de competições de programação.</p>
-<p>🐾 Amo animais! Tenho um cachorrinho chamado Mbappé, ele é um Lhasa Apso.</p>
+<p>🐾 Amo animais! Tenho um cachorrinho chamado Mbappé e uma gatinha chamada Mia.</p>
 <br>
 <p>💬 Estou disposta a conversar sobre tudo!</p>
 
