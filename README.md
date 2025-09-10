@@ -1,11 +1,11 @@
-## Olá, gente! Eu sou a Isabelle👩‍💼
+## Olá, gente! Meu nome é Isabelle
 
 ## Curiosidades sobre mim
 <p>⚡ Sou estudante de Engenharia Elétrica.</p>
 <p>👩‍💻 Mas sou apaixonada por Codar e aprender novos algoritmos!</p>
 <p>🔮 Atualmente, estou me aventurando no universo da <b>IoT</b>.</p>
 <p>📜 Já tenho um diploma como Técnica em Informática.</p>
-<p>🏅 Adoro participar de competições de programação.</p>
+<p>🏅 Adoro participar de competições.</p>
 <p>🐾 Amo animais! Tenho um cachorrinho chamado Mbappé e uma gatinha chamada Mia.</p>
 <br>
 <p>💬 Estou disposta a conversar sobre tudo!</p>
